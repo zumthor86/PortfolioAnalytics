@@ -1,0 +1,29 @@
+<table class="table table-bordered" id="portfolio_table" style="width:100%">
+    <thead>
+    <tr>
+        <th class="text-center">Company</th>
+        <th class="text-center">Symbol</th>
+        <th class="text-center">Sector</th>
+        <th class="text-center">Weight</th>
+        <th class="text-center">Beta</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for company, symbol, sector, beta, weight in constituents %}
+        <tr>
+            <td>{{ company }}</td>
+            <td>{{ symbol }}</td>
+            <td>{{ sector }}</td>
+            <td>{{ weight }}</td>
+            <td>{{ beta }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<script>
+    $(document).ready(function () {
+        $('#portfolio_table').DataTable();
+    });
+
+</script>
+

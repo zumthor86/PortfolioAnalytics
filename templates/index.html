@@ -1,0 +1,103 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Browse
+{% endblock %}
+
+{% block main %}
+    <div class="container-fluid">
+        <div class="row">
+            <br>
+            <div class="col-sm-6">
+                <h6 class="display-4">Browse Portfolios</h6>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <form name="portfolio_form" id="portfolio_form">
+                    <div class="form-group row">
+                        <label for="portfolio" class="col-sm-4 col-form-label">Portfolio</label>
+                        <div class="col-sm-8">
+                            <select class="form-control" name="portfolio" id="portfolio">
+                                {% for portfolio in portfolio_options %}
+                                    <option>{{ portfolio }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-sm-2">
+                            <button class="btn btn-primary" type="button" id="browse">View</button>
+                        </div>
+                    </div>
+                </form>
+
+
+            </div>
+            <div class="col-sm-8" id="hidden_table">
+
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+    <script>
+
+        function reset_form() {
+            document.getElementById('portfolio_form').reset();
+            $('#portfolio').val(null).trigger('change');
+
+        }
+
+        $(document).ready(function () {
+
+
+            $("#browse").click(function () {
+
+                let portfolio = $('#portfolio').val();
+
+
+                if (portfolio == "") {
+
+                    alert('Please select a portfolio.');
+                } else {
+
+                    $.ajax('/update_table', {
+                        data: {portfolio: $('#portfolio').val()}, success: function (result) {
+
+                            $('#hidden_table').html(result);
+
+                        }
+                    });
+
+
+                }
+
+
+            });
+
+
+            $("#reset_button").click(function () {
+
+                reset_form();
+
+                $('#hidden_table').html("");
+            });
+
+            $('#portfolio').select2();
+
+        });
+
+    </script>
+
+{% endblock %}
+
+
+

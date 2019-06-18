@@ -1,0 +1,26 @@
+<div class="col-sm-6">
+    {{ html|safe }}
+</div>
+<div class="col-sm-6">
+    <table class="table">
+        <thead>
+        <tr>
+            <th class="text-center">Measure</th>
+            {% for portfolio in portfolios_selected %}
+                <th scope="col" class="text-center">{{ portfolio }}</th>
+            {% endfor %}
+        </tr>
+        </thead>
+        <tbody>
+        {% for measure in portfolio_measures %}
+            <tr>
+                <td><strong>{{ measure }}</strong></td>
+                {% for portfolio in portfolios_selected %}
+                    <td>{{ portfolios_profiles[measure][portfolio] }}</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{bokeh-0.12.16, bokeh-1.1.0, bokeh-1.2.0, bokeh-tables-0.12.16, bokeh-tables-1.1.0, bokeh-tables-1.2.0, bokeh-widgets-0.12.16, bokeh-widgets-1.1.0, bokeh-widgets-1.2.0, bootstrap, bootstrap-autocomplete, chosen.jquery, dataTables.bootstrap4, jquery, jquery-3.3.1.slim, jquery.dataTables, jquery.validate, popper, select2}" />
+  </component>
+</project>

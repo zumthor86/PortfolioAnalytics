@@ -1,0 +1,502 @@
+Symbol,Weight,Sector,Sub_Industry,Date_Added,Founded,Beta,Company
+MSFT,4.124777,Information Technology,Systems Software,01/06/1994,1975,1.4233876400770422,Microsoft Corporation
+AAPL,3.550522,Information Technology,"Technology Hardware, Storage & Peripherals",30/11/1982,1977,1.478429102517871,Apple Inc.
+AMZN,3.281858,Consumer Discretionary,Internet & Direct Marketing Retail,18/11/2005,1994,1.8622777212956636,Amazon.com Inc.
+FB,1.860077,Communication Services,Interactive Media & Services,23/12/2013,,1.2704418821330907,Facebook Inc. Class A
+BRK.B,1.659227,Financials,Multi-Sector Holdings,16/02/2010,,0.976670368322832,Berkshire Hathaway Inc. Class B
+JNJ,1.534833,Health Care,Pharmaceuticals,30/06/1973,1886,0.6306321590057808,Johnson & Johnson
+JPM,1.519747,Financials,Diversified Banks,30/06/1975,,0.9119185821237025,JPMorgan Chase & Co.
+GOOG,1.511095,Communication Services,Interactive Media & Services,03/04/2006,1998,1.3217037262479716,Alphabet Inc. Class C
+GOOGL,1.4786030000000001,Communication Services,Interactive Media & Services,03/04/2014,1998,1.3179490951772719,Alphabet Inc. Class A
+XOM,1.349114,Energy,Integrated Oil & Gas,,1999,0.8364298850854065,Exxon Mobil Corporation
+V,1.203206,Information Technology,IT Services,21/12/2009,,1.2697975552301057,Visa Inc. Class A
+PG,1.1277139999999999,Consumer Staples,Personal Products,,1837,0.4201691013108347,Procter & Gamble Company
+BAC,1.070894,Financials,Diversified Banks,30/06/1976,,1.0520640339454606,Bank of America Corp
+CSCO,1.0266549999999999,Information Technology,Communications Equipment,01/12/1993,,1.2702131794924942,Cisco Systems Inc.
+DIS,0.9951530000000001,Communication Services,Movies & Entertainment,30/06/1976,,0.8249845976027148,Walt Disney Company
+VZ,0.98866,Communication Services,Integrated Telecommunication Services,30/11/1983,,0.26447898700504824,Verizon Communications Inc.
+PFE,0.9639850000000001,Health Care,Pharmaceuticals,,1849,0.7464099851758961,Pfizer Inc.
+T,0.960491,Communication Services,Integrated Telecommunication Services,30/11/1983,1983,0.6447569069409331,AT&T Inc.
+CVX,0.957123,Energy,Integrated Oil & Gas,,1879,0.854399667543405,Chevron Corporation
+MA,0.9534940000000001,Information Technology,IT Services,18/07/2008,,1.4739260566249734,Mastercard Incorporated Class A
+UNH,0.947417,Health Care,Managed Health Care,01/07/1994,,0.9169520527148537,UnitedHealth Group Incorporated
+HD,0.9061680000000001,Consumer Discretionary,Home Improvement Retail,31/03/1988,,0.9102570897486641,Home Depot Inc.
+INTC,0.8537819999999999,Information Technology,Semiconductors,31/12/1976,,1.2818083295309597,Intel Corporation
+MRK,0.851714,Health Care,Pharmaceuticals,,1891,0.7103111152600707,Merck & Co. Inc.
+CMCSA,0.812662,Communication Services,Cable & Satellite,18/09/2015,,0.8273272506484839,Comcast Corporation Class A
+KO,0.794484,Consumer Staples,Soft Drinks,,1886,0.374095660482259,Coca-Cola Company
+WFC,0.78368,Financials,Diversified Banks,30/06/1976,,0.7427359436714092,Wells Fargo & Company
+BA,0.775208,Industrials,Aerospace & Defense,,1916,1.332799287900287,Boeing Company
+PEP,0.7630319999999999,Consumer Staples,Soft Drinks,,1898,0.39841135347073303,PepsiCo Inc.
+NFLX,0.653299,Communication Services,Movies & Entertainment,20/12/2010,1997,1.909997697923188,Netflix Inc.
+C,0.646984,Financials,Diversified Banks,31/05/1988,,1.1726731747103583,Citigroup Inc.
+MCD,0.638879,Consumer Discretionary,Restaurants,30/06/1970,1940,0.4148742087007959,McDonald's Corporation
+WMT,0.600616,Consumer Staples,Hypermarkets & Super Centers,31/08/1982,,0.584457216169669,Walmart Inc.
+ORCL,0.579802,Information Technology,Application Software,31/08/1989,,0.9204967240348895,Oracle Corporation
+ADBE,0.575869,Information Technology,Application Software,05/05/1997,1982,1.6912977863430114,Adobe Inc.
+ABT,0.5602729999999999,Health Care,Health Care Equipment,31/03/1964,1888,1.0605059877579142,Abbott Laboratories
+PYPL,0.557062,Information Technology,Data Processing & Outsourced Services,20/07/2015,,1.5265402647065947,PayPal Holdings Inc
+PM,0.5535640000000001,Consumer Staples,Tobacco,31/03/2008,,0.4507850190298307,Philip Morris International Inc.
+UNP,0.5286569999999999,Industrials,Railroads,,,1.0901209839393666,Union Pacific Corporation
+HON,0.5184810000000001,Industrials,Industrial Conglomerates,31/03/1964,1906,0.9218385164544888,Honeywell International Inc.
+CRM,0.5049319999999999,Information Technology,Internet Software & Services,15/09/2008,,1.7583913256977424,salesforce.com inc.
+IBM,0.503479,Information Technology,IT Consulting & Other Services,,1911,0.9673209696254539,International Business Machines Corporation
+MDT,0.492094,Health Care,Health Care Equipment,31/10/1986,,0.7190347439324158,Medtronic plc
+AVGO,0.490252,Information Technology,Semiconductors,08/05/2014,,1.1739468492719816,Broadcom Inc.
+ABBV,0.488285,Health Care,Pharmaceuticals,31/12/2012,2013 (1888),0.9205504320437577,AbbVie Inc.
+ACN,0.472983,Information Technology,IT Consulting & Other Services,06/07/2011,1989,1.0565240723820852,Accenture Plc Class A
+UTX,0.456534,Industrials,Aerospace & Defense,,,1.029211438514636,United Technologies Corporation
+COST,0.45396499999999995,Consumer Staples,Hypermarkets & Super Centers,01/10/1993,,0.8237188420914795,Costco Wholesale Corporation
+TMO,0.447618,Health Care,Health Care Equipment,,2006,1.1676808910876888,Thermo Fisher Scientific Inc.
+NKE,0.441759,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",30/11/1988,,1.1106582967373164,NIKE Inc. Class B
+AMGN,0.440275,Health Care,Biotechnology,02/01/1992,1980,0.9334356305070628,Amgen Inc.
+LIN,0.43060600000000004,Materials,Industrial Gases,01/07/1992,,0.9032841938091469,Linde plc
+TXN,0.426759,Information Technology,Semiconductors,,1930,1.312976286892257,Texas Instruments Incorporated
+LLY,0.420346,Health Care,Pharmaceuticals,31/12/1970,1876,0.6142917629764826,Eli Lilly and Company
+QCOM,0.41791999999999996,Information Technology,Semiconductors,,1985,0.9674763399741566,QUALCOMM Incorporated
+MMM,0.41195299999999996,Industrials,Industrial Conglomerates,,1902,1.0570086943301418,3M Company
+SBUX,0.408612,Consumer Discretionary,Restaurants,,1971,0.6890375363435245,Starbucks Corporation
+MO,0.406132,Consumer Staples,Tobacco,,1985,0.4501385723857262,Altria Group Inc
+NVDA,0.404555,Information Technology,Semiconductors,30/11/2001,,2.091367504504992,NVIDIA Corporation
+NEE,0.39250799999999997,Utilities,Multi-Utilities,30/06/1976,,0.15687393533594046,NextEra Energy Inc.
+AMT,0.371103,Real Estate,Specialized REITs,19/11/2007,1995,0.39475820153335167,American Tower Corporation
+GE,0.367232,Industrials,Industrial Conglomerates,,1892,0.9559276752572727,General Electric Company
+LOW,0.362845,Consumer Discretionary,Home Improvement Retail,29/02/1984,1904/1946/1959,1.0406712295611935,Lowe's Companies Inc.
+GILD,0.351055,Health Care,Biotechnology,01/07/2004,,0.8949078275722452,Gilead Sciences Inc.
+LMT,0.347909,Industrials,Aerospace & Defense,31/07/1984,,0.849677128101173,Lockheed Martin Corporation
+DHR,0.34611,Health Care,Health Care Equipment,,1969,0.9573317787283765,Danaher Corporation
+AXP,0.34509,Financials,Consumer Finance,30/06/1976,1850,1.0119785314304701,American Express Company
+BKNG,0.338038,Consumer Discretionary,Internet & Direct Marketing Retail,06/11/2009,,1.0963939641478617,Booking Holdings Inc.
+USB,0.32266,Financials,Diversified Banks,,1968,0.680177876497825,U.S. Bancorp
+BMY,0.320386,Health Care,Health Care Distributors,,1989,0.9421047309561521,Bristol-Myers Squibb Company
+MDLZ,0.319183,Consumer Staples,Packaged Foods & Meats,02/10/2012,,0.4842044939027577,Mondelez International Inc. Class A
+CAT,0.303415,Industrials,Construction Machinery & Heavy Trucks,,1925,1.594624164680416,Caterpillar Inc.
+COP,0.295576,Energy,Oil & Gas Exploration & Production,,2002,1.1754688252808994,ConocoPhillips
+UPS,0.293642,Industrials,Air Freight & Logistics,22/07/2002,,1.08073718493469,United Parcel Service Inc. Class B
+ADP,0.293054,Information Technology,Internet Services & Infrastructure,31/03/1981,,1.0805506495590662,Automatic Data Processing Inc.
+GS,0.28535,Financials,Investment Banking & Brokerage,22/07/2002,,1.1335057229996497,Goldman Sachs Group Inc.
+ANTM,0.282521,Health Care,Managed Health Care,25/07/2002,2014 (1940s),0.8545642964135178,Anthem Inc.
+CVS,0.282504,Health Care,Health Care Services,,1996,0.8385231185434422,CVS Health Corporation
+CELG,0.279368,Health Care,Biotechnology,06/11/2006,,0.8355538143251315,Celgene Corporation
+CB,0.27786700000000003,Financials,Property & Casualty Insurance,15/07/2010,,0.6217939606717796,Chubb Limited
+CHTR,0.276134,Communication Services,Cable & Satellite,08/09/2016,,1.0260284080930402,Charter Communications Inc. Class A
+CME,0.27235,Financials,Financial Exchanges & Data,11/08/2006,,0.4038296940368633,CME Group Inc. Class A
+TJX,0.271966,Consumer Discretionary,Apparel Retail,30/09/1985,,0.7686651713912398,TJX Companies Inc
+INTU,0.267422,Information Technology,Internet Software & Services,05/12/2000,,1.389099161845395,Intuit Inc.
+DUK,0.261121,Utilities,Electric Utilities,30/06/1976,,0.06339476682620267,Duke Energy Corporation
+CL,0.26015,Consumer Staples,Household Products,,1806,0.4967102311329773,Colgate-Palmolive Company
+BDX,0.253164,Health Care,Health Care Equipment,30/09/1972,1897,0.9085613525374907,Becton Dickinson and Company
+CSX,0.25235799999999997,Industrials,Railroads,30/09/1967,1980,1.0780153442843523,CSX Corporation
+D,0.250783,Utilities,Electric Utilities,,1983,0.11052319799985628,Dominion Energy Inc
+PNC,0.247625,Financials,Regional Banks,30/04/1988,,0.8037315130889372,PNC Financial Services Group Inc.
+CI,0.24340900000000001,Health Care,Managed Health Care,30/06/1976,,0.879716383119559,Cigna Corporation
+MS,0.23976799999999998,Financials,Investment Banking & Brokerage,,1935,1.2332255323041945,Morgan Stanley
+SYK,0.239112,Health Care,Health Care Equipment,12/12/2000,,0.937370878990605,Stryker Corporation
+ISRG,0.234469,Health Care,Health Care Equipment,02/06/2008,,1.5535027048301604,Intuitive Surgical Inc.
+SO,0.23290999999999998,Utilities,Electric Utilities,,,0.12051693670322397,Southern Company
+SLB,0.23006,Energy,Oil & Gas Equipment & Services,31/03/1965,1926,0.9563642486721425,Schlumberger NV
+EOG,0.229904,Energy,Oil & Gas Exploration & Production,02/11/2000,,1.2348790720744067,EOG Resources Inc.
+NSC,0.22854000000000002,Industrials,Railroads,,1881/1894 (1980),1.0966788818784716,Norfolk Southern Corporation
+BLK,0.226003,Financials,Asset Management & Custody Banks,04/04/2011,,1.1550629589745998,BlackRock Inc.
+SPG,0.225561,Real Estate,Retail REITs,26/06/2002,,0.5116526068947541,Simon Property Group Inc.
+SPGI,0.222753,Financials,Financial Exchanges & Data,,,1.0394201046886116,S&P Global Inc.
+CCI,0.22071999999999997,Real Estate,Specialized REITs,14/03/2012,,0.4263999435958326,Crown Castle International Corp
+BSX,0.217131,Health Care,Health Care Equipment,24/02/1995,,1.2177985946743521,Boston Scientific Corporation
+SCHW,0.21660100000000002,Financials,Investment Banking & Brokerage,02/06/1997,,1.194924986147464,Charles Schwab Corporation
+NOC,0.21538200000000002,Industrials,Aerospace & Defense,30/06/1985,,0.8186859978330551,Northrop Grumman Corporation
+RTN,0.210468,Industrials,Aerospace & Defense,,1922,0.8451788472348667,Raytheon Company
+ZTS,0.205224,Health Care,Pharmaceuticals,21/06/2013,,1.0184536224392697,Zoetis Inc. Class A
+GM,0.204045,Consumer Discretionary,Automobile Manufacturers,06/06/2013,,0.8982868557085111,General Motors Company
+PLD,0.201789,Real Estate,Industrial REITs,17/07/2003,,0.6375445614745262,Prologis Inc.
+MMC,0.20133099999999998,Financials,Insurance Brokers,31/08/1987,,0.7636736915979448,Marsh & McLennan Companies Inc.
+EXC,0.197517,Utilities,Multi-Utilities,,2000,0.17255806945511398,Exelon Corporation
+DE,0.193124,Industrials,Agricultural & Farm Machinery,,1837,1.310566951095338,Deere & Company
+ECL,0.192223,Materials,Specialty Chemicals,31/01/1989,,0.7839251334789524,Ecolab Inc.
+ICE,0.192139,Financials,Financial Exchanges & Data,26/09/2007,,0.6500462871049907,Intercontinental Exchange Inc.
+ITW,0.191635,Industrials,Industrial Machinery,28/02/1986,,1.0603999703087539,Illinois Tool Works Inc.
+GD,0.191613,Industrials,Aerospace & Defense,,1899,0.9586765060371573,General Dynamics Corporation
+APD,0.191564,Materials,Industrial Gases,30/04/1985,1940,0.8457912807249587,Air Products and Chemicals Inc.
+AIG,0.19069,Financials,Property & Casualty Insurance,31/03/1980,1919,0.8659052228354324,American International Group Inc.
+MET,0.189889,Financials,Life & Health Insurance,,1868,1.031762120597564,MetLife Inc.
+ILMN,0.189686,Health Care,Life Sciences Tools & Services,19/11/2015,,1.6896191834919685,Illumina Inc.
+PGR,0.189305,Financials,Property & Casualty Insurance,04/08/1997,,0.9188852326134983,Progressive Corporation
+BIIB,0.18904300000000002,Health Care,Biotechnology,13/11/2003,,0.9266032578877668,Biogen Inc.
+AGN,0.184027,Health Care,Pharmaceuticals,12/04/1999,1983,0.9070091976888598,Allergan plc
+KMB,0.183873,Consumer Staples,Household Products,,1872,0.3437611821205882,Kimberly-Clark Corporation
+AON,0.181341,Financials,Insurance Brokers,23/04/1996,1982 (1919),0.720656755483995,Aon plc
+VRTX,0.18123499999999998,Health Care,Biotechnology,23/09/2013,,1.2750287918341041,Vertex Pharmaceuticals Incorporated
+COF,0.177243,Financials,Consumer Finance,01/07/1998,1935,1.0753667826008342,Capital One Financial Corporation
+FDX,0.1757,Industrials,Air Freight & Logistics,31/12/1980,,1.2927534594442855,FedEx Corporation
+AEP,0.17543499999999998,Utilities,Electric Utilities,,1906,0.04138215975169813,American Electric Power Company Inc.
+WM,0.175055,Industrials,Environmental & Facilities Services,,1968,0.5471721860090341,Waste Management Inc.
+WBA,0.174999,Consumer Staples,Drug Retail,31/12/1979,,0.8766106104292375,Walgreens Boots Alliance Inc
+MU,0.17442,Information Technology,Semiconductors,27/09/1994,,1.8965511359583869,Micron Technology Inc.
+PRU,0.171129,Financials,Life & Health Insurance,22/07/2002,,1.1430827919323159,Prudential Financial Inc.
+EQIX,0.170658,Real Estate,Specialized REITs,20/03/2015,,0.606502228433138,Equinix Inc.
+BK,0.17022400000000001,Financials,Asset Management & Custody Banks,31/03/1995,,0.7805152949038854,Bank of New York Mellon Corporation
+EMR,0.169465,Industrials,Electrical Components & Equipment,31/03/1965,1890,1.1214501568576278,Emerson Electric Co.
+F,0.169242,Consumer Discretionary,Automobile Manufacturers,,1903,0.8853020599808277,Ford Motor Company
+OXY,0.167772,Energy,Oil & Gas Exploration & Production,31/12/1982,,1.003417985476057,Occidental Petroleum Corporation
+DOW,0.165682,Materials,Commodity Chemicals,01/04/2019,2019,1.2419147605457206,Dow Inc.
+KMI,0.165578,Energy,Oil & Gas Storage & Transportation,25/05/2012,,0.8349778050883648,Kinder Morgan Inc Class P
+AMAT,0.164665,Information Technology,Semiconductor Equipment,16/03/1995,1967,1.5146586810417677,Applied Materials Inc.
+AFL,0.164049,Financials,Life & Health Insurance,28/05/1999,1955,0.6829709789429738,Aflac Incorporated
+TRV,0.16223900000000002,Financials,Property & Casualty Insurance,21/08/2002,,0.6834097499981415,Travelers Companies Inc.
+ADSK,0.16114,Information Technology,Application Software,01/12/1989,,1.85446323414234,Autodesk Inc.
+FIS,0.161082,Information Technology,Internet Software & Services,10/11/2006,,0.9049613013801947,Fidelity National Information Services Inc.
+ADI,0.160223,Information Technology,Semiconductors,12/10/1999,1965,1.1758736543788735,Analog Devices Inc.
+MAR,0.15728499999999998,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",,1927,1.1056229088375922,Marriott International Inc. Class A
+PSX,0.155407,Energy,Oil & Gas Refining & Marketing,01/05/2012,,1.0358153479717636,Phillips 66
+ROP,0.155333,Industrials,Industrial Conglomerates,23/12/2009,,1.0052157886829265,Roper Technologies Inc.
+EL,0.155124,Consumer Staples,Personal Products,05/01/2006,,0.9841763025386006,Estee Lauder Companies Inc. Class A
+TGT,0.15401600000000001,Consumer Discretionary,General Merchandise Stores,31/12/1976,,0.7963739755474525,Target Corporation
+APC,0.153608,Energy,Oil & Gas Exploration & Production,28/07/1997,1959,1.3507181478351604,Anadarko Petroleum Corporation
+BBT,0.15335,Financials,Regional Banks,04/12/1997,,0.7052569684973568,BB&T Corporation
+EW,0.15296099999999999,Health Care,Health Care Equipment,01/04/2011,,1.32367130691445,Edwards Lifesciences Corporation
+BAX,0.15261,Health Care,Health Care Equipment,30/09/1972,1931,0.8591080499318097,Baxter International Inc.
+ATVI,0.15042,Communication Services,Interactive Home Entertainment,31/08/2015,2008,1.2633774868256753,Activision Blizzard Inc.
+VLO,0.15026199999999998,Energy,Oil & Gas Refining & Marketing,,1980,1.1269648185166523,Valero Energy Corporation
+SRE,0.14918499999999998,Utilities,Multi-Utilities,,,0.30661852999654926,Sempra Energy
+JCI,0.14916500000000002,Industrials,Building Products,27/08/2010,,0.8196941400351557,Johnson Controls International plc
+ROST,0.14874400000000002,Consumer Discretionary,Apparel Retail,21/12/2009,,0.9395662957482815,Ross Stores Inc.
+MPC,0.148252,Energy,Oil & Gas Refining & Marketing,01/07/2011,,1.265661727366995,Marathon Petroleum Corporation
+SHW,0.147821,Materials,Specialty Chemicals,30/06/1964,1866,0.8614800940837644,Sherwin-Williams Company
+SYY,0.146982,Consumer Staples,Food Distributors,31/12/1986,,0.4272557499205763,Sysco Corporation
+STZ,0.143596,Consumer Staples,Distillers & Vintners,01/07/2005,,0.7696230941977199,Constellation Brands Inc. Class A
+DAL,0.143529,Industrials,Airlines,11/09/2013,,0.9849220743194474,Delta Air Lines Inc.
+PSA,0.143189,Real Estate,Specialized REITs,19/08/2005,,0.11868803551262101,Public Storage
+FISV,0.14313399999999998,Information Technology,Internet Software & Services,02/04/2001,,0.9748399063992413,Fiserv Inc.
+ETN,0.142561,Industrials,Electrical Components & Equipment,,1911,1.0285813299811513,Eaton Corp. Plc
+CTSH,0.140622,Information Technology,IT Consulting & Other Services,17/11/2006,,0.9607043532330701,Cognizant Technology Solutions Corporation Class A
+WMB,0.139337,Energy,Oil & Gas Storage & Transportation,31/03/1975,,0.810032284660789,Williams Companies Inc.
+HUM,0.137406,Health Care,Managed Health Care,,1961,0.8962081594833715,Humana Inc.
+RHT,0.136756,Information Technology,Systems Software,27/07/2009,,0.33022986288591577,Red Hat Inc.
+HCA,0.136388,Health Care,Health Care Facilities,27/01/2015,,0.9821662965286216,HCA Healthcare Inc
+EBAY,0.133431,Consumer Discretionary,Internet & Direct Marketing Retail,,1995,0.9709506224083788,eBay Inc.
+ALL,0.13249,Financials,Property & Casualty Insurance,13/07/1995,1931,0.7232650434835456,Allstate Corporation
+MCO,0.131162,Financials,Financial Exchanges & Data,,1909,1.2340635430162308,Moody's Corporation
+DG,0.13106600000000002,Consumer Discretionary,General Merchandise Stores,03/12/2012,,0.7997712719311124,Dollar General Corporation
+TEL,0.12949000000000002,Information Technology,Electronic Manufacturing Services,17/10/2011,,1.0125384783193945,TE Connectivity Ltd.
+GIS,0.129467,Consumer Staples,Packaged Foods & Meats,31/03/1969,1856,0.23145009779397063,General Mills Inc.
+YUM,0.12870299999999998,Consumer Discretionary,Restaurants,06/10/1997,,0.6450522837737194,Yum! Brands Inc.
+WELL,0.127908,Real Estate,Health Care REITs,30/01/2009,,0.34995428552612307,Welltower Inc.
+PEG,0.126402,Utilities,Electric Utilities,,,0.13802804564281626,Public Service Enterprise Group Inc
+EA,0.12450699999999999,Communication Services,Interactive Home Entertainment,22/07/2002,,1.1632338713457373,Electronic Arts Inc.
+LRCX,0.12356600000000001,Information Technology,Semiconductor Equipment,29/06/2012,,1.4514392975047001,Lam Research Corporation
+VFC,0.123499,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",30/06/1979,,1.0052305982846825,V.F. Corporation
+IR,0.123107,Industrials,Industrial Machinery,17/11/2010,,0.9656451668286972,Ingersoll-Rand Plc
+XEL,0.12283699999999999,Utilities,Multi-Utilities,,1909,0.11910658598664875,Xcel Energy Inc.
+ALXN,0.12226300000000001,Health Care,Biotechnology,25/05/2012,1992,1.4027805259823414,Alexion Pharmaceuticals Inc.
+HPQ,0.120926,Information Technology,"Technology Hardware, Storage & Peripherals",31/12/1974,1939 (2015),1.3340949302148928,HP Inc.
+EQR,0.118335,Real Estate,Residential REITs,03/12/2001,,0.38193843592646604,Equity Residential
+AVB,0.116954,Real Estate,Residential REITs,10/01/2007,,0.4047057040680958,AvalonBay Communities Inc.
+ORLY,0.11676600000000001,Consumer Discretionary,Specialty Stores,27/03/2009,,0.6366368246661406,O'Reilly Automotive Inc.
+OKE,0.11673399999999999,Energy,Oil & Gas Storage & Transportation,15/03/2010,,0.9192132770503638,ONEOK Inc.
+TWTR,0.116192,Communication Services,Interactive Media & Services,07/06/2018,,1.9590739163593902,Twitter Inc.
+HLT,0.11560999999999999,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",19/06/2017,,1.076234658230176,Hilton Worldwide Holdings Inc
+ED,0.11551099999999999,Utilities,Electric Utilities,,1823,0.09249066257152176,Consolidated Edison Inc.
+PAYX,0.11546,Information Technology,Internet Software & Services,,1971,0.9121349303431481,Paychex Inc.
+APH,0.11480699999999999,Information Technology,Electronic Components,30/09/2008,1932,1.0348035375226265,Amphenol Corporation Class A
+STI,0.11476900000000001,Financials,Regional Banks,31/05/1988,,0.8385512266845554,SunTrust Banks Inc.
+PPG,0.112594,Materials,Specialty Chemicals,,1883,0.8395294059763628,PPG Industries Inc.
+XLNX,0.11189500000000001,Information Technology,Semiconductors,08/11/1999,,1.5605710710779939,Xilinx Inc.
+LUV,0.10894100000000001,Industrials,Airlines,01/07/1994,,0.8654924339058607,Southwest Airlines Co.
+PXD,0.108241,Energy,Oil & Gas Exploration & Production,24/09/2008,,1.33083760496436,Pioneer Natural Resources Company
+DFS,0.10681900000000001,Financials,Consumer Finance,02/07/2007,,1.1390994603063835,Discover Financial Services
+WEC,0.10541099999999999,Utilities,Electric Utilities,31/10/2008,,0.10992120936392344,WEC Energy Group Inc
+TROW,0.105181,Financials,Asset Management & Custody Banks,,1937,1.255744746946859,T. Rowe Price Group
+MNST,0.104696,Consumer Staples,Soft Drinks,28/06/2012,,0.7943333621091563,Monster Beverage Corporation
+NEM,0.10394500000000001,Materials,Gold,30/06/1969,1921,-0.007061957887020266,Newmont Goldcorp Corporation
+LYB,0.103653,Materials,Specialty Chemicals,05/09/2012,,1.007785920287378,LyondellBasell Industries NV
+AZO,0.10267799999999999,Consumer Discretionary,Specialty Stores,02/01/1997,,0.24598383911177854,AutoZone Inc.
+DLR,0.102441,Real Estate,Specialized REITs,18/05/2016,,0.5263390797585645,Digital Realty Trust Inc.
+AMD,0.101895,Information Technology,Semiconductors,20/03/2017,1969,2.300255495133303,Advanced Micro Devices Inc.
+PCAR,0.100699,Industrials,Construction Machinery & Heavy Trucks,31/12/1980,,0.9488988684357094,PACCAR Inc
+TSN,0.100687,Consumer Staples,Packaged Foods & Meats,,,0.5388360458796823,Tyson Foods Inc. Class A
+REGN,0.10054600000000001,Health Care,Biotechnology,01/05/2013,,1.1859094559305612,Regeneron Pharmaceuticals Inc.
+ZBH,0.100533,Health Care,Health Care Equipment,07/08/2001,,0.9360652561054303,Zimmer Biomet Holdings Inc.
+MSI,0.10044600000000001,Information Technology,Communications Equipment,,1928 (2011),0.9686830912864983,Motorola Solutions Inc.
+MCK,0.10030399999999999,Health Care,Health Care Distributors,,1833,0.7709094101219282,McKesson Corporation
+SBAC,0.100286,Real Estate,Specialized REITs,01/09/2017,,0.48950346819983714,SBA Communications Corp. Class A
+DLTR,0.099989,Consumer Discretionary,General Merchandise Stores,19/12/2011,,0.5787480968401788,Dollar Tree Inc.
+GLW,0.099928,Information Technology,Electronic Components,,1851,1.3454536098041785,Corning Inc
+ALGN,0.099597,Health Care,Health Care Supplies,19/06/2017,1997,1.780680036222286,Align Technology Inc.
+FTV,0.099116,Industrials,Industrial Machinery,01/07/2016,,1.0076872938963644,Fortive Corp.
+GPN,0.098925,Information Technology,Data Processing & Outsourced Services,25/04/2016,,1.294994974192366,Global Payments Inc.
+FLT,0.098472,Information Technology,Data Processing & Outsources Services,20/06/2018,2000,1.0421683811586222,FleetCor Technologies Inc.
+CMI,0.097914,Industrials,Industrial Machinery,31/03/1965,1919,1.0174570517306507,Cummins Inc.
+STT,0.097313,Financials,Asset Management & Custody Banks,,,1.009605109619557,State Street Corporation
+ES,0.096522,Utilities,Multi-Utilities,,1966,0.1326328958914712,Eversource Energy
+VRSK,0.09643099999999999,Industrials,Research & Consulting Services,08/10/2015,,0.8915032275712069,Verisk Analytics Inc
+ADM,0.096363,Consumer Staples,Agricultural Products,29/07/1981,1902,0.6955900808008043,Archer-Daniels-Midland Company
+DTE,0.09615499999999999,Utilities,Multi-Utilities,,1995,0.07994668442898867,DTE Energy Company
+VTR,0.095925,Real Estate,Health Care REITs,04/03/2009,,0.23410760440440323,Ventas Inc.
+SYF,0.09583,Financials,Consumer Finance,18/11/2015,,0.8821436053225016,Synchrony Financial
+WLTW,0.095701,Financials,Insurance Brokers,05/01/2016,,0.6335366800139343,Willis Towers Watson Public Limited Company
+CNC,0.09562000000000001,Health Care,Managed Health Care,30/03/2016,,1.1707202310156817,Centene Corporation
+CXO,0.095381,Energy,Oil & Gas Exploration & Production,22/02/2016,,1.3228532622965148,Concho Resources Inc.
+MTB,0.094544,Financials,Regional Banks,,1856,0.6840179053004565,M&T Bank Corporation
+TDG,0.094276,Industrials,Aerospace & Defense,03/06/2016,,1.2597441497775264,TransDigm Group Incorporated
+HAL,0.093797,Energy,Oil & Gas Equipment & Services,,1919,1.1464329413453878,Halliburton Company
+CERN,0.093372,Health Care,Health Care Technology,30/04/2010,,0.913992901564179,Cerner Corporation
+PH,0.09225900000000001,Industrials,Industrial Machinery,30/11/1985,,1.268950189447749,Parker-Hannifin Corporation
+A,0.09166200000000001,Health Care,Health Care Equipment,05/06/2000,1999,1.0852440708137385,Agilent Technologies Inc.
+HRS,0.09067,Industrials,Aerospace & Defense,22/09/2008,,0.6936429214083982,Harris Corporation
+RCL,0.089909,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",05/12/2014,,1.3480199901924832,Royal Caribbean Cruises Ltd.
+IDXX,0.089812,Health Care,Health Care Equipment,05/01/2017,,1.3497958713054554,IDEXX Laboratories Inc.
+IQV,0.089752,Health Care,Life Sciences Tools & Services,29/08/2017,,1.1776672662750411,IQVIA Holdings Inc
+CCL,0.08971699999999999,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",22/12/1998,,1.076793454019902,Carnival Corporation
+PPL,0.089154,Utilities,Electric Utilities,,,0.1667773381660374,PPL Corporation
+BLL,0.088943,Materials,Metal & Glass Containers,31/10/1984,,0.7689095298429305,Ball Corporation
+FE,0.088449,Utilities,Electric Utilities,,1997,0.1987281154695946,FirstEnergy Corp.
+O,0.08769199999999999,Real Estate,Retail REITs,07/04/2015,,0.3555482454491452,Realty Income Corporation
+SWK,0.087482,Industrials,Industrial Machinery,30/09/1982,,1.3733438641250495,Stanley Black & Decker Inc.
+FITB,0.08738,Financials,Regional Banks,,1858,0.8036922368654771,Fifth Third Bancorp
+INFO,0.08732999999999999,Industrials,Research & Consulting Services,02/06/2017,,1.0306136191202,IHS Markit Ltd.
+NTRS,0.087242,Financials,Asset Management & Custody Banks,,1889,1.047241237697497,Northern Trust Corporation
+VRSN,0.087112,Information Technology,Internet Services & Infrastructure,01/02/2006,,1.123739251618765,VeriSign Inc.
+BXP,0.086681,Real Estate,Office REITs,03/04/2006,,0.5951196670112128,Boston Properties Inc.
+KHC,0.084176,Consumer Staples,Packaged Foods & Meats,06/07/2015,,0.5619553449982029,Kraft Heinz Company
+MCHP,0.08396100000000001,Information Technology,Semiconductors,07/09/2007,,1.4775319201625114,Microchip Technology Incorporated
+AWK,0.08379299999999999,Utilities,Water Utilities,04/03/2016,1886,0.2327448798856632,American Water Works Company Inc.
+HPE,0.083302,Information Technology,"Technology Hardware, Storage & Peripherals",02/11/2015,,1.2836476320327344,Hewlett Packard Enterprise Co.
+ROK,0.08261399999999999,Industrials,Electrical Components & Equipment,,,1.1875041426498303,Rockwell Automation Inc.
+AME,0.082081,Industrials,Electrical Components & Equipment,23/09/2013,1930,1.1075964471815427,AMETEK Inc.
+KR,0.08192100000000001,Consumer Staples,Food Retail,,1883,0.500045009355537,Kroger Co.
+AMP,0.081785,Financials,Asset Management & Custody Banks,03/10/2005,1894,1.4119773733008125,Ameriprise Financial Inc.
+EIX,0.081343,Utilities,Electric Utilities,,1886,0.5200702617933336,Edison International
+CDNS,0.080857,Information Technology,Application Software,18/09/2017,,1.2241566554484757,Cadence Design Systems Inc.
+APTV,0.08048200000000001,Consumer Discretionary,Auto Parts & Equipment,24/12/2012,1994,1.1503796461383262,Aptiv PLC
+ULTA,0.080243,Consumer Discretionary,Specialty Stores,18/04/2016,,0.9333813185852855,Ulta Beauty Inc
+HIG,0.08023999999999999,Financials,Property & Casualty Insurance,,,0.7278322095248563,Hartford Financial Services Group Inc.
+MKC,0.079574,Consumer Staples,Packaged Foods & Meats,,1889,0.43630565166274277,McCormick & Company Incorporated
+CLX,0.079472,Consumer Staples,Household Products,31/03/1969,1913,0.362778296318102,Clorox Company
+MSCI,0.079372,Financials,Financial Exchanges & Data,04/04/2018,,1.3314998727094636,MSCI Inc. Class A
+CTAS,0.079206,Industrials,Diversified Support Services,01/03/2001,,1.1117131976554941,Cintas Corporation
+LLL,0.078721,Industrials,Aerospace & Defense,,1997,0.6426599371150346,L3 Technologies Inc
+ESS,0.07834400000000001,Real Estate,Residential REITs,02/04/2014,,0.31618818078872446,Essex Property Trust Inc.
+UAL,0.077849,Industrials,Airlines,03/09/2015,,0.9936944130521242,United Continental Holdings Inc.
+WY,0.07772899999999999,Real Estate,Specialized REITS,,,0.8371077108742708,Weyerhaeuser Company
+MTD,0.07717,Health Care,Life Sciences Tools & Services,06/09/2016,,1.1327036472811731,Mettler-Toledo International Inc.
+FAST,0.077096,Industrials,Building Products,15/09/2009,,1.075493366312254,Fastenal Company
+SNPS,0.07675499999999999,Information Technology,Application Software,16/03/2017,,1.273312104146767,Synopsys Inc.
+ETR,0.07654,Utilities,Electric Utilities,,1913,0.11836202875546735,Entergy Corporation
+RSG,0.076386,Industrials,Environmental & Facilities Services,05/12/2008,,0.4604432705339502,Republic Services Inc.
+IP,0.07631399999999999,Materials,Paper Packaging,,1898,1.0833776551085974,International Paper Company
+CHD,0.075882,Consumer Staples,Household Products,29/12/2015,,0.3932111040571278,Church & Dwight Co. Inc.
+AEE,0.075636,Utilities,Multi-Utilities,19/09/1991,1902,0.18174368620260048,Ameren Corporation
+KLAC,0.074836,Information Technology,Semiconductor Equipment,,1975/1977 (1997),1.5462255463435053,KLA-Tencor Corporation
+HSY,0.073936,Consumer Staples,Packaged Foods & Meats,,1894,0.2007021452573829,Hershey Company
+OMC,0.072921,Communication Services,Advertising,,1986,0.6800817725379704,Omnicom Group Inc
+CMG,0.071824,Consumer Discretionary,Restaurants,28/04/2011,,0.6747841977301358,Chipotle Mexican Grill Inc.
+NUE,0.071671,Materials,Steel,30/04/1985,,1.128242837864435,Nucor Corporation
+NTAP,0.071668,Information Technology,Internet Software & Services,25/06/1999,,1.4931149621221411,NetApp Inc.
+FANG,0.071287,Energy,Oil & Gas Exploration & Production,03/12/2018,2007,1.2766962850406631,Diamondback Energy Inc.
+VMC,0.070661,Materials,Construction Materials,30/06/1999,,1.0423252832644019,Vulcan Materials Company
+KEY,0.07044,Financials,Regional Banks,01/03/1994,,0.94815981174004,KeyCorp
+HES,0.070345,Energy,Integrated Oil & Gas,31/05/1984,,1.6621951793233187,Hess Corporation
+CBS,0.070035,Communication Services,Broadcasting,01/09/1994,2006,0.8511744725526837,CBS Corporation Class B
+FRC,0.070003,Financials,Regional Banks,02/01/2019,1985,0.8341701455423178,First Republic Bank
+TSS,0.06945499999999999,Information Technology,Internet Software & Services,02/01/2008,,1.1477794974436408,Total System Services Inc.
+LH,0.06916900000000001,Health Care,Health Care Services,01/11/2004,,0.8192048886267194,Laboratory Corporation of America Holdings
+ARE,0.06879,Real Estate,Office REITs,20/03/2017,1994,0.5248035347589882,Alexandria Real Estate Equities Inc.
+CFG,0.068205,Financials,Regional Banks,29/01/2016,,0.9493901876883004,Citizens Financial Group Inc.
+RMD,0.067688,Health Care,Health Care Equipment,26/07/2017,,0.831392753308446,ResMed Inc.
+BBY,0.066713,Consumer Discretionary,Computer & Electronics Retail,29/06/1999,,1.10541115014895,Best Buy Co. Inc.
+KEYS,0.06669800000000001,Information Technology,Electronic Equipment & Instruments,06/11/2018,2014,1.3465275996109578,Keysight Technologies Inc
+ANSS,0.065937,Information Technology,Application Software,19/06/2017,1969,1.3858110239928312,ANSYS Inc.
+CMS,0.065565,Utilities,Multi-Utilities,03/05/1999,,0.1313597767148187,CMS Energy Corporation
+LEN,0.064481,Consumer Discretionary,Homebuilding,04/10/2005,,0.778923954375031,Lennar Corporation Class A
+DXC,0.0644,Information Technology,IT Consulting & Other Services,04/04/2017,,1.289963299881498,DXC Technology Co.
+AJG,0.064228,Financials,Insurance Brokers,31/05/2016,,0.6587866484003735,Arthur J. Gallagher & Co.
+FCX,0.06364299999999999,Materials,Copper,,1912,1.54849945504825,Freeport-McMoRan Inc.
+DHI,0.063234,Consumer Discretionary,Homebuilding,,1978,0.8329849834819236,D.R. Horton Inc.
+MXIM,0.063154,Information Technology,Semiconductors,03/12/2018,1983,1.3224238589184345,Maxim Integrated Products Inc.
+WAT,0.062547,Health Care,Health Care Distributors,,1958,0.8695257631741609,Waters Corporation
+HCP,0.062328999999999996,Real Estate,Health Care REITs,31/03/2008,,0.3035749447773923,HCP Inc.
+RF,0.062157000000000004,Financials,Regional Banks,28/08/1998,,0.9441179767907104,Regions Financial Corporation
+CBRE,0.062076,Real Estate,Real Estate Services,10/11/2006,,1.1099471744729164,CBRE Group Inc. Class A
+EVRG,0.06188300000000001,Utilities,Electric Utilities,05/06/2018,1909,0.06609329057546752,Evergy Inc.
+CNP,0.061777,Utilities,Multi-Utilities,31/07/1985,,0.26912532439782355,CenterPoint Energy Inc.
+EFX,0.06118,Industrials,Research & Consulting Services,19/06/1997,,0.7429986023971654,Equifax Inc.
+DRI,0.060722000000000005,Consumer Discretionary,Restaurants,,1938,0.625362769332838,Darden Restaurants Inc.
+PFG,0.060597000000000005,Financials,Life & Health Insurance,22/07/2002,,1.0911045548088956,Principal Financial Group Inc.
+CINF,0.0605,Financials,Property & Casualty Insurance,18/12/1997,,0.618641802923788,Cincinnati Financial Corporation
+COO,0.059874000000000004,Health Care,Health Care Supplies,23/09/2016,,0.9233310693811377,Cooper Companies Inc.
+K,0.059827,Consumer Staples,Packaged Foods & Meats,,1906,0.31571814178300434,Kellogg Company
+HST,0.059713999999999996,Real Estate,Hotel & Resort REITs,20/03/2007,,0.7894232598516533,Host Hotels & Resorts Inc.
+SJM,0.059648,Consumer Staples,Packaged Foods & Meats,06/11/2008,,0.14423369403780148,J.M. Smucker Company
+L,0.059511,Financials,Multi-line Insurance,,,0.832690314459965,Loews Corporation
+GPC,0.05937100000000001,Consumer Discretionary,Specialty Stores,31/12/1973,1925,0.5565218338216066,Genuine Parts Company
+BR,0.058710000000000005,Information Technology,Data Processing & Outsourced Services,18/06/2018,1962,0.9872483865081226,Broadridge Financial Solutions Inc.
+DOV,0.05865599999999999,Industrials,Industrial Machinery,31/10/1985,,0.9192743336905999,Dover Corporation
+CAG,0.058441999999999994,Consumer Staples,Packaged Foods & Meats,31/08/1983,,0.6237397736441547,Conagra Brands Inc.
+TFX,0.058262,Health Care,Health Care Equipment,18/01/2019,1943,0.9777932358942506,Teleflex Incorporated
+HBAN,0.057955999999999994,Financials,Regional Banks,,1866,0.7745952236012807,Huntington Bancshares Incorporated
+EXPE,0.057741999999999995,Consumer Discretionary,Internet & Direct Marketing Retail,02/10/2007,,0.8903379801465304,Expedia Group Inc.
+IT,0.057659,Information Technology,IT Consulting & Other Services,05/04/2017,,1.0247432419235474,Gartner Inc.
+INCY,0.057445,Health Care,Biotechnology,28/02/2017,,1.1765844665086662,Incyte Corporation
+DVN,0.057244,Energy,Oil & Gas Exploration & Production,30/08/2000,,1.5036833246844519,Devon Energy Corporation
+XYL,0.057102,Industrials,Industrial Machinery,01/11/2011,,1.117174415171371,Xylem Inc.
+IFF,0.057059000000000006,Materials,Specialty Chemicals,31/03/1976,,0.741480230472826,International Flavors & Fragrances Inc.
+WCG,0.056433000000000004,Health Care,Managed Health Care,1985,,0.8922132740103629,WellCare Health Plans Inc.
+MLM,0.05640800000000001,Materials,Construction Materials,02/07/2014,,0.8106572686179664,Martin Marietta Materials Inc.
+EXR,0.056402,Real Estate,Specialized REITs,19/01/2016,,0.21563127299891865,Extra Space Storage Inc.
+MGM,0.055909,Consumer Discretionary,Casinos & Gaming,26/07/2017,,1.5391050103841928,MGM Resorts International
+CAH,0.055849,Health Care,Health Care Distributors,27/05/1997,,0.8988923514842058,Cardinal Health Inc.
+CPRT,0.055783000000000006,Industrials,Diversified Support Services,02/07/2018,,1.0467039627538268,Copart Inc.
+KMX,0.055435000000000005,Consumer Discretionary,Specialty Stores,28/06/2010,,0.7646650971837894,CarMax Inc.
+ANET,0.055192,Information Technology,Communications Equipment,28/08/2018,2004,1.7677136294007334,Arista Networks Inc.
+LNC,0.055146,Financials,Multi-line Insurance,30/06/1976,,1.2479325595509576,Lincoln National Corporation
+MRO,0.05499299999999999,Energy,Oil & Gas Exploration & Production,01/05/1991,,1.5989547563860178,Marathon Oil Corporation
+CE,0.05463,Materials,Specialty Chemicals,24/12/2018,,1.1377348419908682,Celanese Corporation
+AAL,0.054472,Industrials,Airlines,23/03/2015,1934,1.569140738396785,American Airlines Group Inc.
+SWKS,0.054454999999999996,Information Technology,Semiconductors,12/03/2015,,1.4358942608822356,Skyworks Solutions Inc.
+WDC,0.053985000000000005,Information Technology,"Technology Hardware, Storage & Peripherals",01/07/2009,,1.7083680333091298,Western Digital Corporation
+FOXA,0.053979,Communication Services,Movies & Entertainment,01/07/2013,,0.7550697845065804,Fox Corporation Class A
+MAA,0.053903999999999994,Real Estate,Residential REITs,02/12/2016,,0.36025428894540873,Mid-America Apartment Communities Inc.
+DGX,0.053616,Health Care,Health Care Services,12/12/2002,,0.6799695433035774,Quest Diagnostics Incorporated
+EXPD,0.053357,Industrials,Air Freight & Logistics,10/10/2007,,1.0067486152382872,Expeditors International of Washington Inc.
+AKAM,0.052578,Information Technology,Internet Services & Infrastructure,12/07/2007,1998,1.2517460706038581,Akamai Technologies Inc.
+SYMC,0.052088,Information Technology,Application Software,25/03/2003,,1.14678201900864,Symantec Corporation
+NCLH,0.052052999999999995,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",13/10/2017,,1.2512479338760896,Norwegian Cruise Line Holdings Ltd.
+WYNN,0.051329,Consumer Discretionary,Casinos & Gaming,14/11/2008,,1.7288177607030424,Wynn Resorts Limited
+ABC,0.051121,Health Care,Health Care Distributors,30/08/2001,1985,0.7923107110919819,AmerisourceBergen Corporation
+UDR,0.051113,Real Estate,Residential REITs,07/03/2016,,0.37629768374633465,UDR Inc.
+KSU,0.050967,Industrials,Railroads,24/05/2013,,1.006878031874529,Kansas City Southern
+CTXS,0.050945,Information Technology,Internet Software & Services,01/12/1999,,0.6638955599199327,Citrix Systems Inc.
+TSCO,0.050477999999999995,Consumer Discretionary,Specialty Stores,24/01/2014,,0.8973025885793187,Tractor Supply Company
+HOLX,0.050467000000000005,Health Care,Health Care Equipment,30/03/2016,,0.9802437292752971,Hologic Inc.
+TTWO,0.050347,Communication Services,Interactive Home Entertainment,19/03/2018,,1.3536173891774996,Take-Two Interactive Software Inc.
+FTNT,0.050339,Information Technology,Systems Software,11/10/2018,2000,1.4185767433074115,Fortinet Inc.
+SIVB,0.05031,Financials,Regional Banks,19/03/2018,,1.54883796906068,SVB Financial Group
+XRAY,0.050172,Health Care,Health Care Supplies,14/11/2008,,0.6975114490225048,DENTSPLY SIRONA Inc.
+TXT,0.049812,Industrials,Aerospace & Defense,31/12/1978,,1.1861317795417023,Textron Inc.
+VAR,0.049793000000000004,Health Care,Health Care Equipment,12/02/2007,,0.9298998356607732,Varian Medical Systems Inc.
+ETFC,0.049636,Financials,Investment Banking & Brokerage,31/03/2004,,1.1468425381276708,E*TRADE Financial Corporation
+CMA,0.049615,Financials,Diversified Banks,01/12/1995,,0.8396290597107929,Comerica Incorporated
+ATO,0.049504,Utilities,Gas Utilities,15/02/2019,1906,0.20717246492759028,Atmos Energy Corporation
+NBL,0.049405000000000004,Energy,Oil & Gas Exploration & Production,08/10/2007,,1.4925070288603242,Noble Energy Inc.
+GWW,0.049349000000000004,Industrials,Industrial Machinery,30/06/1981,,0.8640924522162748,W.W. Grainger Inc.
+ABMD,0.049286,Health Care,Health Care Equipment,31/05/2018,1981,1.648785911510897,ABIOMED Inc.
+BHGE,0.049131,Energy,Oil & Gas Equipment & Services,,2017,0.9936600161875329,Baker Hughes a GE Company Class A
+STX,0.04912,Information Technology,"Technology Hardware, Storage & Peripherals",02/07/2012,,1.4421450806487686,Seagate Technology PLC
+APA,0.048898000000000004,Energy,Oil & Gas Exploration & Production,28/07/1997,1954,1.2784732833111168,Apache Corporation
+VNO,0.048481,Real Estate,Office REITs,,,0.5484470557977152,Vornado Realty Trust
+MAS,0.048281,Industrials,Building Products,30/06/1981,,1.0356450841302134,Masco Corporation
+CBOE,0.048263,Financials,Financial Exchanges & Data,01/03/2017,,0.35281439700612927,Cboe Global Markets Inc
+AAP,0.04775,Consumer Discretionary,Automotive Retail,09/07/2015,1932,0.637117513635226,Advance Auto Parts Inc.
+COG,0.04774,Energy,Oil & Gas Exploration & Production,23/06/2008,,0.6209922200069128,Cabot Oil & Gas Corporation
+CHRW,0.047393,Industrials,Air Freight & Logistics,02/03/2007,,0.7984087597948202,C.H. Robinson Worldwide Inc.
+HAS,0.04729,Consumer Discretionary,Leisure Products,30/09/1984,,0.8439395045036306,Hasbro Inc.
+LNT,0.047027,Utilities,Electric Utilities,01/07/2016,1917,0.17674252062027065,Alliant Energy Corp
+REG,0.046964,Real Estate,Retail REITs,02/03/2017,,0.4378137528199273,Regency Centers Corporation
+DRE,0.046048,Real Estate,Industrial REITs,26/07/2017,,0.5486834356916719,Duke Realty Corporation
+RJF,0.045551999999999995,Financials,Investment Banking & Brokerage,20/03/2017,,1.1822144256053948,Raymond James Financial Inc.
+AES,0.045154,Utilities,Independent Power Producers & Energy Traders,02/10/1998,1981,0.6221834448598633,AES Corporation
+TAP,0.045108999999999996,Consumer Staples,Brewers,30/06/1976,,0.5367210997918165,Molson Coors Brewing Company Class B
+TIF,0.044664999999999996,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",21/06/2000,,1.019471988487788,Tiffany & Co.
+HRL,0.044552999999999995,Consumer Staples,Packaged Foods & Meats,04/03/2009,,0.39071624268559324,Hormel Foods Corporation
+KSS,0.04398,Consumer Discretionary,General Merchandise Stores,,1962,0.8483372419511227,Kohl's Corporation
+PNW,0.043874,Utilities,Multi-Utilities,,1985,0.12605989195367961,Pinnacle West Capital Corporation
+URI,0.043788,Industrials,Trading Companies & Distributors,20/09/2014,,1.9301525079865398,United Rentals Inc.
+NI,0.043731,Utilities,Multi-Utilities,,1912,0.11232162900667553,NiSource Inc
+JKHY,0.043441,Information Technology,Data Processing & Outsourced Services,13/11/2018,,0.8257277884324058,Jack Henry & Associates Inc.
+UHS,0.043097,Health Care,Health Care Facilities,20/09/2014,,0.7511718703988806,Universal Health Services Inc. Class B
+NDAQ,0.04305,Financials,Financial Exchanges & Data,22/10/2008,,0.7765052905995004,Nasdaq Inc.
+NRG,0.043047,Utilities,Independent Power Producers & Energy Traders,29/01/2010,,0.6980340756191771,NRG Energy Inc.
+MYL,0.042889,Health Care,Pharmaceuticals,23/04/2004,,1.3264784474684017,Mylan N.V.
+FMC,0.042536000000000004,Materials,Fertilizers & Agricultural Chemicals,19/08/2009,,1.0835710011209085,FMC Corporation
+BEN,0.042336,Financials,Asset Management & Custody Banks,,1947,0.937222714931153,Franklin Resources Inc.
+HSIC,0.042183,Health Care,Health Care Distributors,17/03/2015,,0.7868455908253064,Henry Schein Inc.
+RE,0.041977999999999994,Financials,Reinsurance,19/06/2017,,0.502744307193522,Everest Re Group Ltd.
+EMN,0.041888,Materials,Diversified Chemicals,01/01/1994,,1.1967336153464816,Eastman Chemical Company
+CTL,0.041666,Communication Services,Integrated Telecommunication Services,25/03/1999,,0.9268748640467865,CenturyLink Inc.
+VIAB,0.041242,Communication Services,Movies & Entertainment,,,0.7976579028888426,Viacom Inc. Class B
+CF,0.040889,Materials,Fertilizers & Agricultural Chemicals,27/08/2008,,1.3815417709727726,CF Industries Holdings Inc.
+FTI,0.040872000000000006,Energy,Oil & Gas Equipment & Services,05/06/2009,,1.1769653852464352,TechnipFMC Plc
+LW,0.040865,Consumer Staples,Packaged Foods & Meats,03/12/2018,,0.35634942404774456,Lamb Weston Holdings Inc.
+PKI,0.040656,Health Care,Health Care Equipment,31/05/1985,,1.3371225556074853,PerkinElmer Inc.
+FRT,0.040414,Real Estate,Retail REITs,01/02/2016,,0.440108395518828,Federal Realty Investment Trust
+ALLE,0.039875,Industrials,Building Products,02/12/2013,1908,0.9088801785433079,Allegion PLC
+NOV,0.039573000000000004,Energy,Oil & Gas Equipment & Services,14/03/2005,,1.150212602523226,National Oilwell Varco Inc.
+GRMN,0.03951,Consumer Discretionary,Consumer Electronics,12/12/2012,,0.865299161948616,Garmin Ltd.
+WRK,0.039306,Materials,Paper Packaging,,,1.2103115633387553,WestRock Company
+ARNC,0.039248000000000005,Industrials,Aerospace & Defense,31/03/1964,2016,1.24326320202449,Arconic Inc.
+DISCK,0.038883999999999995,Communication Services,Broadcasting,07/08/2014,,0.8495434511577346,Discovery Inc. Class C
+SNA,0.038485000000000005,Industrials,Industrial Machinery,30/09/1982,,0.9778904149843931,Snap-on Incorporated
+IRM,0.038109,Real Estate,Specialized REITs,06/01/2009,,0.5756047435955854,Iron Mountain Inc.
+TPR,0.037898,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",,2017,1.1915021218125044,Tapestry Inc.
+JEC,0.037880000000000004,Industrials,Construction & Engineering,26/10/2007,,1.1618697154877997,Jacobs Engineering Group Inc.
+WAB,0.037788,Industrials,Construction Machinery & Heavy Trucks,27/02/2019,,1.0113355954768668,Westinghouse Air Brake Technologies Corporation
+PKG,0.037567,Materials,Paper Packaging,26/07/2017,,1.1290215989562056,Packaging Corporation of America
+TMK,0.037325,Financials,Life & Health Insurance,30/04/1989,,0.8268294147556118,Torchmark Corporation
+HII,0.037166000000000005,Industrials,Aerospace & Defense,03/01/2018,,0.968201479769278,Huntington Ingalls Industries Inc.
+JNPR,0.036982999999999995,Information Technology,Communications Equipment,,1996,0.9708210696051871,Juniper Networks Inc.
+AVY,0.036706,Materials,Paper Packaging,31/12/1987,,0.9372049124972706,Avery Dennison Corporation
+ZION,0.036469999999999995,Financials,Regional Banks,22/06/2001,,0.8648649954279445,Zions Bancorporation N.A.
+MHK,0.036463999999999996,Consumer Discretionary,Home Furnishings,23/12/2013,,1.0717238021953575,Mohawk Industries Inc.
+WU,0.036068,Information Technology,Internet Software & Services,,1851,0.6338230655930917,Western Union Company
+LKQ,0.03595,Consumer Discretionary,Distributors,23/05/2016,,0.9856723673045312,LKQ Corporation
+FFIV,0.035706,Information Technology,Communications Equipment,20/12/2010,1996,1.1831841911081198,F5 Networks Inc.
+IPG,0.035450999999999996,Communication Services,Advertising,01/10/1992,,0.7780011846734091,Interpublic Group of Companies Inc.
+QRVO,0.034952,Information Technology,Semiconductors,11/06/2015,,1.5043699322643804,Qorvo Inc.
+PVH,0.034866,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",15/02/2013,,1.1774478281766885,PVH Corp.
+IVZ,0.034788,Financials,Asset Management & Custody Banks,21/08/2008,,1.0206926049049752,Invesco Ltd.
+PHM,0.034770999999999996,Consumer Discretionary,Homebuilding,30/04/1984,,0.681687885200039,PulteGroup Inc.
+NLSN,0.034753,Industrials,Research & Consulting Services,09/07/2013,,0.8899233861780572,Nielsen Holdings Plc
+JBHT,0.034270999999999996,Industrials,Trucking,01/07/2015,,0.9092196255596678,J.B. Hunt Transport Services Inc.
+WHR,0.0341,Consumer Discretionary,Household Appliances,,1911,1.0592395424556273,Whirlpool Corporation
+MOS,0.033799,Materials,Fertilizers & Agricultural Chemicals,26/09/2011,,1.2487754313663295,Mosaic Company
+DISH,0.032868,Communication Services,Cable & Satellite,13/03/2017,,1.348104912595672,DISH Network Corporation Class A
+AIV,0.03242,Real Estate,Residential REITs,14/03/2003,1994 (1975),0.4342171347141346,Apartment Investment and Management Company Class A
+ALK,0.031615,Industrials,Airlines,13/05/2016,1985,0.9960876275431673,Alaska Air Group Inc.
+UNM,0.031596,Financials,Life & Health Insurance,01/03/1994,,1.1874063533513037,Unum Group
+KIM,0.031570999999999995,Real Estate,Retail REITs,04/04/2006,,0.6737464162729462,Kimco Realty Corporation
+BWA,0.031536,Consumer Discretionary,Auto Parts & Equipment,19/12/2011,,1.2153786409753193,BorgWarner Inc.
+FBHS,0.031143999999999998,Industrials,Building Products,22/06/2016,,1.1941009438869363,Fortune Brands Home & Security Inc.
+ALB,0.031001,Materials,Specialty Chemicals,01/07/2016,1994,1.1683297940797572,Albemarle Corporation
+SLG,0.030806,Real Estate,Office REITs,20/03/2015,,0.6605746479335561,SL Green Realty Corp.
+CPB,0.030468000000000002,Consumer Staples,Packaged Foods & Meats,,1869,0.1594138147670373,Campbell Soup Company
+HFC,0.029836,Energy,Oil & Gas Refining & Marketing,18/06/2018,,1.3423766770240209,HollyFrontier Corporation
+XEC,0.02926,Energy,Oil & Gas Exploration & Production,21/06/2014,,1.3612443782598036,Cimarex Energy Co.
+ADS,0.028845,Information Technology,Data Processing & Outsourced Services,23/12/2013,1996,1.2991207985103994,Alliance Data Systems Corporation
+RHI,0.028279000000000002,Industrials,Human Resource & Employment Services,05/12/2000,,1.3683811786741849,Robert Half International Inc.
+FLIR,0.028199000000000002,Information Technology,Electronic Equipment & Instruments,02/01/2009,,0.9176948555796489,FLIR Systems Inc.
+SEE,0.027522,Materials,Paper Packaging,,,0.6310106053740283,Sealed Air Corporation
+FLS,0.027387,Industrials,Industrial Machinery,02/10/2008,,1.504979387611734,Flowserve Corporation
+XRX,0.027014,Information Technology,"Technology Hardware, Storage & Peripherals",,1906,1.2574433014815811,Xerox Corporation
+M,0.026954000000000002,Consumer Discretionary,Department Stores,,1929,0.8526569206898799,Macy's Inc
+AOS,0.026766,Industrials,Building Products,26/07/2017,1916,0.9923126245065423,A. O. Smith Corporation
+FL,0.026674,Consumer Discretionary,Apparel Retail,04/04/2016,,0.7560455164598121,Foot Locker Inc.
+RL,0.026636,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",02/02/2007,,1.08289386930001,Ralph Lauren Corporation Class A
+DVA,0.026098000000000003,Health Care,Health Care Facilities,31/07/2008,,1.1565117514640915,DaVita Inc.
+HP,0.025876999999999997,Energy,Oil & Gas Drilling,01/03/2010,,1.1281678095755694,Helmerich & Payne Inc.
+PRGO,0.025818,Health Care,Pharmaceuticals,19/12/2011,,1.305407208174826,Perrigo Co. Plc
+CPRI,0.025638,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",13/11/2013,,1.0241114340299542,Capri Holdings Limited
+HBI,0.025514,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",20/03/2015,,0.9829795278029452,Hanesbrands Inc.
+NWL,0.025152,Consumer Discretionary,Housewares & Specialties,30/04/1989,,1.1182052228023496,Newell Brands Inc
+PBCT,0.024899,Financials,Thrifts & Mortgage Finance,13/11/2008,,0.7641051974487324,People's United Financial Inc.
+PNR,0.024751,Industrials,Industrial Machinery,01/10/2012,,0.9704438690619109,Pentair plc
+COTY,0.024583,Consumer Staples,Personal Products,03/10/2016,,0.950653551535587,Coty Inc. Class A
+FOX,0.024306,Communication Services,Movies & Entertainment,18/09/2015,,0.7271104938701084,Fox Corporation Class B
+HOG,0.024051,Consumer Discretionary,Motorcycle Manufacturers,,1903,1.1054716749074167,Harley-Davidson Inc.
+HRB,0.023006,Consumer Discretionary,Specialized Consumer Services,30/11/1986,,0.7158021274359079,H&R Block Inc.
+ROL,0.022436,Industrials,Environmental & Facilities Services,01/10/2018,,0.785096890441858,Rollins Inc.
+NKTR,0.022259,Health Care,Pharmaceuticals,19/03/2018,,1.4824336386560308,Nektar Therapeutics
+PWR,0.021682,Industrials,Construction & Engineering,01/07/2009,,1.1251140340154955,Quanta Services Inc.
+LB,0.020991,Consumer Discretionary,Apparel Retail,30/09/1983,,1.0187300268555322,L Brands Inc.
+AIZ,0.020765000000000002,Financials,Multi-line Insurance,10/04/2007,,0.6760396482009375,Assurant Inc.
+JEF,0.020677,Financials,Multi-Sector Holdings,27/08/2007,,1.1044562773218927,Jefferies Financial Group Inc.
+LEG,0.020571000000000002,Consumer Discretionary,Home Furnishings,,1883,0.9997427361005963,Leggett & Platt Incorporated
+IPGP,0.020455,Information Technology,Electronic Manufacturing Services,07/03/2018,,1.6453271846195294,IPG Photonics Corporation
+GPS,0.020082,Consumer Discretionary,Apparel Retail,31/08/1986,,0.714324001872256,Gap Inc.
+AMG,0.019969,Financials,Asset Management & Custody Banks,01/07/2014,1993,1.2292506028358035,Affiliated Managers Group Inc.
+TRIP,0.019674,Communication Services,Interactive Media & Services,21/12/2011,,1.3736667070863104,TripAdvisor Inc.
+MAC,0.018498,Real Estate,Retail REITs,09/05/2013,,0.6712987191084362,Macerich Company
+NWSA,0.018086,Communication Services,Publishing,01/08/2013,,0.9357678906007018,News Corporation Class A
+DISCA,0.017804,Communication Services,Broadcasting,01/03/2010,,0.847361996324369,Discovery Inc. Class A
+JWN,0.017435,Consumer Discretionary,Department Stores,31/08/1986,,0.7707925921059563,Nordstrom Inc.
+UAA,0.016651,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",25/03/2016,,1.2998612668759923,Under Armour Inc. Class A
+UA,0.014911,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",01/05/2014,,1.2750861392141855,Under Armour Inc. Class C
+NWS,0.005472,Communication Services,Publishing,18/09/2015,,0.918424440090999,News Corporation Class B
