@@ -1,4 +1,4 @@
-# CS50 Final Project : Portfolio Analytics
+# Portfolio Analytics
 
 ## Introduction
 This app brings together finance and data visualisation in a way that allows users to interactively build and compare
