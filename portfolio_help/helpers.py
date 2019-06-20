@@ -336,7 +336,7 @@ def create_sector_breakdown(constituents):
 
     sector_count = symbols.groupby('Sector')['Symbol']\
         .agg('count')\
-        .sort(ascending=False)
+        .sort_values(ascending=False)
 
     counts = sector_count.to_list()
 
@@ -390,8 +390,7 @@ def calculate_betas(symbol):
 
 def create_beta_dotplot(constituents):
     shares = SHARES.loc[constituents, ['Symbol', 'Beta', 'Sector']]\
-        .reset_index()\
-        .sort(columns='Beta', ascending=False)
+        .reset_index()
 
     hover_tool = HoverTool(tooltips=[('Company', '@Company'), ('Beta', '@Beta'), ('Sector', '@Sector')], names=['dot'])
 
