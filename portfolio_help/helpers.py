@@ -19,7 +19,7 @@ import statsmodels.api as sm
 from bokeh.models import Span
 import re
 
-with open(join(dirname(__file__), 'data', 'config.json'), 'r') as f:
+with open(join(dirname(__file__), 'config.json'), 'r') as f:
     config = json.load(f)
 
 API_KEY = config['dev']['alpha_vantage_api_key']
@@ -334,7 +334,9 @@ def retrieve_weights(portfolio_name):
 def create_sector_breakdown(constituents):
     symbols = SHARES.loc[constituents, :]
 
-    sector_count = symbols.groupby('Sector')['Symbol'].agg('count')
+    sector_count = symbols.groupby('Sector')['Symbol']\
+        .agg('count')\
+        .sort(ascending=False)
 
     counts = sector_count.to_list()
 
@@ -387,7 +389,9 @@ def calculate_betas(symbol):
 
 
 def create_beta_dotplot(constituents):
-    shares = SHARES.loc[constituents, ['Symbol', 'Beta', 'Sector']].reset_index()
+    shares = SHARES.loc[constituents, ['Symbol', 'Beta', 'Sector']]\
+        .reset_index()\
+        .sort(columns='Beta', ascending=False)
 
     hover_tool = HoverTool(tooltips=[('Company', '@Company'), ('Beta', '@Beta'), ('Sector', '@Sector')], names=['dot'])
 
