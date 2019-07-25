@@ -34,3 +34,6 @@ To run the app obtain a alphavantage api key and store it in `config.json` withi
     "alpha_vantage_api_key" : \<your api key\>
   }
 }
+
+## Demo 
+A video demo of the app can be found [here](https://www.youtube.com/watch?v=wRKjbf3c2rU)
