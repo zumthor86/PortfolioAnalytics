@@ -31,6 +31,6 @@ To run the app obtain a alphavantage api key and store it in `config.json` withi
 
 {
   "dev": {
-    "alpha_vantage_api_key" : <your api key>
+    "alpha_vantage_api_key" : \<your api key\>
   }
 }
